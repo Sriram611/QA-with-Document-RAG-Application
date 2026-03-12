@@ -69,8 +69,8 @@ https://ai.google.dev/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sriram611/document-qa-system.git
-cd document-qa-system
+git clone https://github.com/Sriram611/QA-with-Document-RAG-Application.git
+cd QA-with-Document-RAG-Application.git
 ```
 
 Create a virtual environment:
